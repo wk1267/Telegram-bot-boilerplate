@@ -1,2 +1,2 @@
-# EduAI_telebot
-EduAI telegram bot
+# Telegram bot boilerplate
+Requirements: python-telegram-bot
